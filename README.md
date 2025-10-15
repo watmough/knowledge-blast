@@ -32,3 +32,7 @@ Here are the next set of steps:
 * Close the tab and paste the tag into the `Pull a model from ollama.com` field and click **download**
 * Close Manage Models and return to the **open-webui** main page
 * Select a model and set it as the default using the model dropdown top-left
+* Click **New Chat** in the sidebar and click the `[+]` button to open tyhe **More** context menu
+* Click **Upload Files** and upload technical docs as needed
+
+**Have Fun!!**
